@@ -1,0 +1,19 @@
+{
+  "name": "zefoy-node",
+  "version": "1.0.0",
+  "description": "tiktok automate views zefoy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crobynsc",
+  "license": "MIT",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "puppeteer": "^17.1.2",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-adblocker": "^2.13.5",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "readline-sync": "^1.4.10"
+  }
+}
